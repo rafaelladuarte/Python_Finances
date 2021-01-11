@@ -1,0 +1,30 @@
+O que é Backtest?
+Também chamado de backtesting, o backtest é um tipo de teste que se faz usando dados históricos relevantes, a fim de prever o que pode acontecer no futuro e pode ser aplicado em diferentes áreas do conhecimento.
+
+No setor financeiro, serve para testar se uma estratégia será bem-sucedida. Mais especificamente, o backtest é utilizado na hora de fazer determinados investimentos, quando são levantados dados passados do mercado.
+
+Com isso, consegue-se estimar de que maneira essa estratégia vai funcionar. Para alcançar o seu objetivo, o backtesting deve reunir o máximo de informação disponível, já que um maior detalhamento resulta em uma simulação mais realista do que se deseja prever.
+
+Desse modo, se o teste apresenta resultados positivos, o investidor pratica a sua estratégia. No entanto, se os resultados do backtest se mostrarem pouco favoráveis, então a estratégia pode sofrer modificações e ser testada novamente ou, simplesmente, ser rejeitada.
+
+Além disso, esse teste é, principalmente, usado por investidores que desejam aplicar dinheiro nas ações de empresas de capital aberto que são negociadas na bolsa de valores.
+
+Como funciona o Backtest
+Para fazer uso do backtest, é preciso ter acesso a uma base confiável de dados e saber exatamente como é a estratégia que se quer testar. Além disso, é necessário utilizar um site ou software que disponibilize a realização do teste.
+
+Antigamente, quando não havia ferramentas que tornavam o procedimento muito fácil e rápido, como é hoje, apenas programadores conseguiam fazer um backtest de maneira adequada.
+
+Mesmo assim, ainda existem algumas limitações na hora de aplicar o teste, em relação aos elementos que são utilizados no mesmo. O banco de dados, por exemplo, que é essencial ser confiável para oferecer resultados assertivos, não pode ter erros.
+
+Afinal, até a menor discrepância no banco de dados pode levar a resultados totalmente equivocados. Da mesma forma, é preciso estar atento ao número de trades utilizados para o teste, pois simular muitos deles pode levar bastante tempo.
+
+Por isso, é comum que os simuladores de backtest passem por um tratamento nos dados, a fim de diminuir o número de trades ocorridos. No entanto, é preciso ter em mente que, quanto mais rápido for um backtest, menos ele representa a realidade do mercado.
+
+Críticas ao Backtest
+Embora o backtest seja uma ferramenta amplamente utilizada por investidores e eficiente para simular o sucesso ou não de determinados investimentos, é preciso também ter em mente que não se trata de um teste com resultados 100% corretos.
+
+Além do que já foi citado, como a possibilidade de erros devido a problemas no banco de dados ou do número de trades, afirma-se que um desempenho satisfatório no passado não é garantia de um adequado desempenho no futuro.
+
+Isso porque, há softwares que realizam melhorias de parâmetros de uma estratégia testada, mostrando a melhor combinação em um determinado período. Mesmo assim, especialistas defendem a importância do uso do backtest, desde que as suas armadilhas sejam conhecidas.
+
+E mais, é preciso saber ponderar os resultados, utilizando outras métricas que contribuem com uma análise mais completa do backtesting. Dessa forma, é possível fazer previsões mais assertivas a respeito de uma dada estratégia de investimento no futuro.
